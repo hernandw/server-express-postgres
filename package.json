@@ -1,0 +1,16 @@
+{
+  "name": "express-postgres",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Williams Hernández",
+  "license": "MIT",
+  "description": "Conexión de postgres con express",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
